@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EventLogParser">
+</Property><Property Name="Solution File" Value="C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\EventLogParser.sln">
+</Property><Property Name="Date" Value="Thursday, January 12, 2012">
+</Property><Property Name="Time" Value="18:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EventLogParser.sln" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser.sln">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\EventLogParser.csproj" Description="Project file successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\EventLogParser.csproj">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\EventLogParser.cs" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\EventLogParser.cs">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\MainForm.cs" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\MainForm.Designer.cs" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\Program.cs" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\Program.cs">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\Properties\Settings.settings" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\MainForm.resx" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\Properties\Resources.resx" Description="File successfully backed up as C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\Backup\EventLogParser\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\EventLogParser.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EventLogParser" Source="EventLogParser\EventLogParser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EventLogParser.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EventLogParser.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EventLogParser" Source="EventLogParser\EventLogParser.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

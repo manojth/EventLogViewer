@@ -1,0 +1,213 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.resx" caret="0" fromTop="0" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:DisplayOutput.cs" caret="135" fromTop="9" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="117" fromTop="2" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:FolderParser.cs" caret="622" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:IEventLogParser.cs" caret="0" fromTop="0" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:CompositeParser.cs" caret="44" fromTop="2" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:Program.cs" caret="134" fromTop="6" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2592" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="813" fromTop="25" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="1055" fromTop="28" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="8208" fromTop="13" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="838" fromTop="12" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="583" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="6946" fromTop="20" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1592" fromTop="13" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="6277" fromTop="10" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="5951" fromTop="19" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:FolderParser.cs" caret="161" fromTop="7" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:FolderParser.cs" caret="622" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="5951" fromTop="11" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="6947" fromTop="9" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="7614" fromTop="5" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2661" fromTop="29" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9092" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9125" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4271" fromTop="15" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4074" fromTop="11" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9015" fromTop="10" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1497" fromTop="16" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1274" fromTop="7" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1484" fromTop="13" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4572" fromTop="22" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3788" fromTop="21" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3110" fromTop="3" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3397" fromTop="14" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3610" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2958" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Equals`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="String`0" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="filterString" priority="1" />
+      <Item value="txtFilter" priority="0" />
+      <Item value="menuOpenLogFolder" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="fileName" priority="2" />
+      <Item value="fileDialog" priority="0" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="BinaryReader`0" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="folderBrowserDialog1" priority="2" />
+      <Item value="Directory" priority="0" />
+      <Item value="Directory`0" priority="1" />
+      <Item value="System" priority="2" />
+      <Item value="IO" priority="1" />
+      <Item value="Path`0" priority="1" />
+      <Item value="folderWorkers" priority="0" />
+      <Item value="BackgroundWorker" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="DoWorkEventArgs`0" priority="0" />
+      <Item value="folderWorker" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="class" priority="1" />
+      <Item value="EventLogParser`0" priority="4" />
+      <Item value="IEventLogParser`0" priority="2" />
+      <Item value="eventLogParser" priority="0" />
+      <Item value="EventLogParser" priority="0" />
+      <Item value="filename" priority="0" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="folderName" priority="1" />
+      <Item value="FieldAccessException`0" priority="0" />
+      <Item value="files" priority="1" />
+      <Item value="file" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="locationName" priority="3" />
+      <Item value="FolderParser`0" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="CompositeParser`0" priority="1" />
+      <Item value="parser" priority="1" />
+      <Item value="OnProgress" priority="0" />
+      <Item value="OnAction" priority="0" />
+      <Item value="ex" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="EndOfStreamException`0" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="br" priority="1" />
+      <Item value="offset" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="long" priority="2" />
+      <Item value="totalNumberOfEventsForLogFolder" priority="0" />
+      <Item value="totalEvents" priority="0" />
+      <Item value="Parse`0" priority="1" />
+      <Item value="saveFileDialog1" priority="1" />
+      <Item value="Console`0" priority="0" />
+      <Item value="i" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.EventArgs">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="FileNames" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.FolderBrowserDialog">
+      <Item value="SelectedPath" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetFiles`0" priority="1" />
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="PathSeparator" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.BackgroundWorker">
+      <Item value="DoWork" priority="0" />
+      <Item value="RunWorkerAsync`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventLogParser.MainForm">
+      <Item value="folderWorker" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventLogParser.EventLogParser">
+      <Item value="Parse`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventLogParser.FolderParser">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventLogParser.IEventLogParser">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EventLogParser.ProgressHandler">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="StackTrace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.BinaryReader">
+      <Item value="BaseStream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Text" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
+      <Item value="Count" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
