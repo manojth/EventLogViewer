@@ -94,32 +94,36 @@ namespace EventLogParser
                 {
                     StreamWriter strWri = new StreamWriter(saveFileDialog1.FileName);
 
-                    string strRowVal = "";
+                    string strColumnVal = "";
                     for (int i = 0; i < ds.Tables["Events"].Columns.Count; i++)
                     {
-                        
-                            if (strRowVal == "")
+
+                        if (strColumnVal == "")
                             {
-                                strRowVal = ds.Tables["Events"].Columns[i].ToString();
+                                strColumnVal = ds.Tables["Events"].Columns[i].ToString();
                             }
                             else
                             {
-                                strRowVal = strRowVal + "," + ds.Tables["Events"].Columns[i].ToString();
+                                strColumnVal = strColumnVal + "," + ds.Tables["Events"].Columns[i];
                             }
                     }
 
+                    strWri.WriteLine(strColumnVal);
+
+
                     for (int i = 0; i < dataGridView1.Rows.Count; i++)
                     {
-                        
+                        string strRowVal = "";
                         for (int j = 0; j < dataGridView1.Rows[i].Cells.Count; j++)
                         {
                             if (strRowVal == "")
                             {
-                                strRowVal = dataGridView1.Rows[i].Cells[j].Value.ToString();
+                                strRowVal = dataGridView1.Rows[i].Cells[j].Value.ToString().Trim(
+                                    '\0', '\n', '\r');
                             }
                             else
                             {
-                                strRowVal = strRowVal + "," + dataGridView1.Rows[i].Cells[j].Value;
+                                strRowVal = strRowVal + "," + dataGridView1.Rows[i].Cells[j].Value.ToString().Trim('\0','\n','\r');
                             }
                         }
                         strWri.WriteLine(strRowVal);

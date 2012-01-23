@@ -16,10 +16,9 @@
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:CompositeParser.cs" caret="44" fromTop="2" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="0" fromTop="0" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:Program.cs" caret="134" fromTop="6" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2592" fromTop="5" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4189" fromTop="121" />
     </RecentFiles>
     <RecentEdits>
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="813" fromTop="25" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="1055" fromTop="28" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="8208" fromTop="13" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="838" fromTop="12" />
@@ -32,23 +31,24 @@
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:FolderParser.cs" caret="622" fromTop="18" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="5951" fromTop="11" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="6947" fromTop="9" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="7614" fromTop="5" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="7762" fromTop="5" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2661" fromTop="29" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="0" fromTop="0" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9092" fromTop="18" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9125" fromTop="18" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4271" fromTop="15" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4074" fromTop="11" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9015" fromTop="10" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9240" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9273" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9163" fromTop="10" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1497" fromTop="16" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1274" fromTop="7" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1484" fromTop="13" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4572" fromTop="22" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3788" fromTop="21" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3110" fromTop="3" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3397" fromTop="14" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3610" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4720" fromTop="22" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2958" fromTop="14" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3843" fromTop="12" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3104" fromTop="16" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3345" fromTop="17" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3700" fromTop="17" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3665" fromTop="16" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4418" fromTop="13" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4189" fromTop="9" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -69,6 +69,9 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
       <Item value="Equals`0" priority="2" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Replace`0" priority="0" />
+      <Item value="Trim`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Console">
       <Item value="WriteLine`0" priority="2" />
