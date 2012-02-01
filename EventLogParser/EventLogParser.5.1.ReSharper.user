@@ -10,45 +10,46 @@
     <RecentFiles>
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.resx" caret="0" fromTop="0" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:DisplayOutput.cs" caret="135" fromTop="9" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="117" fromTop="2" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:FolderParser.cs" caret="622" fromTop="18" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:IEventLogParser.cs" caret="0" fromTop="0" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:CompositeParser.cs" caret="44" fromTop="2" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="0" fromTop="0" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:Program.cs" caret="134" fromTop="6" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4189" fromTop="121" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="7089" fromTop="176" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="17365" fromTop="12" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9995" fromTop="31" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:README.txt" caret="309" fromTop="8" />
     </RecentFiles>
     <RecentEdits>
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="1055" fromTop="28" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="8208" fromTop="13" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="838" fromTop="12" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="583" fromTop="18" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="6946" fromTop="20" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1592" fromTop="13" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="6277" fromTop="10" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="5951" fromTop="19" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:FolderParser.cs" caret="161" fromTop="7" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:FolderParser.cs" caret="622" fromTop="18" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="5951" fromTop="11" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:EventLogParser.cs" caret="6947" fromTop="9" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="7762" fromTop="5" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2661" fromTop="29" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2733" fromTop="29" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="0" fromTop="0" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9240" fromTop="18" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9273" fromTop="18" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9163" fromTop="10" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9365" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9288" fromTop="10" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1497" fromTop="16" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1274" fromTop="7" />
       <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="1484" fromTop="13" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4720" fromTop="22" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2958" fromTop="14" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3843" fromTop="12" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3104" fromTop="16" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3345" fromTop="17" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3700" fromTop="17" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3665" fromTop="16" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4418" fromTop="13" />
-      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4189" fromTop="9" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4792" fromTop="22" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3030" fromTop="14" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3915" fromTop="12" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3176" fromTop="16" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3417" fromTop="17" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3772" fromTop="17" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="3737" fromTop="16" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4490" fromTop="13" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="4261" fromTop="9" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="2493" fromTop="22" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="19822" fromTop="5" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="8445" fromTop="18" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="19822" fromTop="5" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="10033" fromTop="17" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="8615" fromTop="21" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="10055" fromTop="34" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="8623" fromTop="10" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.Designer.cs" caret="17365" fromTop="12" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="10055" fromTop="6" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9488" fromTop="12" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:MainForm.cs" caret="9995" fromTop="23" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:README.txt" caret="173" fromTop="4" />
+      <File id="C419E886-E1B5-4858-966D-DA69F59F7CC5/f:README.txt" caret="846" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -136,6 +137,9 @@
       <Item value="saveFileDialog1" priority="1" />
       <Item value="Console`0" priority="0" />
       <Item value="i" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="exception" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.EventArgs">
       <Item value="ToString`0" priority="0" />
@@ -182,7 +186,7 @@
       <Item value="Invoke`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Exception">
-      <Item value="StackTrace" priority="0" />
+      <Item value="StackTrace" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.IO.BinaryReader">
       <Item value="BaseStream" priority="0" />
@@ -203,7 +207,7 @@
       <Item value="Value" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
-      <Item value="Show`0" priority="0" />
+      <Item value="Show`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
       <Item value="Count" priority="0" />
@@ -211,6 +215,9 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Data.DataColumn">
       <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Tables" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

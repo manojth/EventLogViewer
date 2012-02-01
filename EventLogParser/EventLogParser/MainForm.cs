@@ -77,6 +77,7 @@ namespace EventLogParser
                 ds.Tables["Events"].Columns.Add("EventID");
                 ds.Tables["Events"].Columns.Add("User");
                 ds.Tables["Events"].Columns.Add("System");
+                ds.Tables["Events"].Columns.Add("SystemWithDateTime");
                 // Start the processing as a background process
                 worker.RunWorkerAsync(folderBrowserDialog1.SelectedPath);
 
@@ -238,13 +239,16 @@ namespace EventLogParser
                 DataGridViewRow dv = this.dataGridView1.SelectedRows[0];
                 if (dv != null)
                 {
-                    MessageBox.Show(this, dv.Cells["Description"].Value.ToString().Replace('\0', '\n'), "Description", MessageBoxButtons.OK, MessageBoxIcon.None);
+                    MessageBox.Show(this, dv.Cells["Description"].Value.ToString().Trim(
+                                    '\0', '\n', '\r'), "Description", MessageBoxButtons.OK, MessageBoxIcon.None);
                 }
             }
             catch (Exception)
             {
             }
         }
+
+        
 
         // Select the row when a cell is clicked
         private void dataGridView1_CellMouseDown(object sender, DataGridViewCellMouseEventArgs e)
@@ -275,6 +279,25 @@ namespace EventLogParser
         {
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            try
+            {
+                DataGridViewRow dv = this.dataGridView1.SelectedRows[0];
+                if (dv != null)
+                {
+                    MessageBox.Show(this, dv.Cells["Description"].Value.ToString().Trim(
+                                    '\0', '\n', '\r'), "Description", MessageBoxButtons.OK, MessageBoxIcon.None);
+                }
+            }
+            catch (Exception exception)
+            {
+                MessageBox.Show(exception.StackTrace);
+            }
+        }
+
+        
 
         
     }

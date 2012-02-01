@@ -6,3 +6,11 @@ C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\EventLogParser\obj\
 C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\EventLogParser\obj\Debug\EventLogParser.csproj.GenerateResource.Cache
 C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\EventLogParser\obj\Debug\EventLogParser.exe
 C:\Users\manojth\Downloads\EventLogParser_src\EventLogParser\EventLogParser\obj\Debug\EventLogParser.pdb
+C:\EventLogViewer\EventLogParser\EventLogParser\obj\Debug\EventLogParser.exe
+C:\EventLogViewer\EventLogParser\EventLogParser\obj\Debug\EventLogParser.pdb
+C:\EventLogViewer\EventLogParser\EventLogParser\bin\Debug\EventLogParser.exe
+C:\EventLogViewer\EventLogParser\EventLogParser\bin\Debug\EventLogParser.pdb
+C:\EventLogViewer\EventLogParser\EventLogParser\obj\Debug\ResolveAssemblyReference.cache
+C:\EventLogViewer\EventLogParser\EventLogParser\obj\Debug\EventLogParser.MainForm.resources
+C:\EventLogViewer\EventLogParser\EventLogParser\obj\Debug\EventLogParser.Properties.Resources.resources
+C:\EventLogViewer\EventLogParser\EventLogParser\obj\Debug\EventLogParser.csproj.GenerateResource.Cache
